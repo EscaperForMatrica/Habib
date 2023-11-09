@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Block1{
+    background-image: url(/home/abdurahman/Desktop/windows/Rectangle.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+#header .logo ul li{
+    float: right;
+    list-style-type: none;
+    margin-right: 70px;
+    color: white;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.5s linear;
+}
+
+#header .logo ul li:hover{
+    transform: scale(1.2);
+}
+
+.logo{
+    margin-right: 17%;
+    padding-top: 15px;
+}
+
+#center_Block1{
+    text-align: center;
+    padding-top: 20%;
+}
+
+#text_centerBlock1 h2{
+    font-size: 48px;
+    color: white;
+    font-weight: 800;
+    line-height: 64.36px;
+}
+
+#text_centerBlock1 p{
+    color: white;
+    font-weight: 500;
+    line-height: 19.5px; 
+    font-size: 12px;   
+}
+
+#text_centerBlock1 button{
+    border: 1px;
+    width: 200px;
+    height: 45px;
+    background-color: #4985FF;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#footer_Block2img div{
+    float: left;
+    margin-left: 10%;
+}
+
+.text_Block2 h2{
+    font-size: 36px;
+    line-height: 52.66px;
+}
+
+.text_Block2 p{
+    color: #999;
+    font-size: 13px;
+    line-height: 25.36px;
+}
+
+.text_Block2{
+    text-align: center;
+}
+
+#Block2{
+    height: 488px;
+}
+
+#footer_Block2img{
+    margin-left: 12%;
+}
+
+#footer_Block2img img{
+    position: relative;
+    top: 15px;
+    box-shadow: 3px 4px 36px blue;
+}
+
+#center_Block2 button{
+    width: 200px;
+    height: 45px;
+    border: 1px;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: white;
+    position: relative;
+    top: 155px;
+    right: 33%;
+    cursor: pointer;
+}
+
+#footer_Block2img span{
+    text-align: center;
+    margin-left: 25px;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}
+
+#footer_Block2img p{
+    margin-left: 70px;
+    font-size: 13px;
+    color: #999;
+}
+
+#Block3{
+    height: 797px;
+    background-color: #f6f6f8;
+}
+
+#Block3_Image{
+    float: right;
+}
+
+#Block3_footer div{
+    float: left;
+}
+
+#Block3_rightText h2{
+    font-size: 36px;
+    color: #323232;
+    font-weight: 700;
+    line-height: 52.66px;
+}
+
+#Block3_rightText p{
+    color: #9999;
+    font-size: 14px;
+    line-height: 25.36px;
+}
+
+#Block3_rightText a{
+    color: #4985FF;
+    line-height: 19.5px;
+    font-weight: 500;
+}
+
+#Block3_rightText{
+    margin-left: 405px;
+    padding-top: 152px;
+}
